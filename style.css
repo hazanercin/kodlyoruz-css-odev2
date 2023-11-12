@@ -1,0 +1,50 @@
+body{
+    background-color:azure;
+}
+img{
+    display: block;
+}
+.container {
+    background-color: #6dafa9;
+    width: 1100px;
+    margin: auto;
+    padding: auto;
+}
+
+.content{
+    width: 1100px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.first-box{
+    width: 35%;
+    height: 90px;
+    background-color: #6dafa9;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+    margin: 15px;
+}
+.second-box{
+    width: 20%;
+    height: 90px;
+    background-color: #6dafa9;
+    float: left;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 10px;
+    margin: 15px;
+}
+.third-box{
+    width: 35%;
+    height: 90px;
+    background-color: #6dafa9;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+    margin: 15px;
+}
+.clear {
+    clear: both;
+}
